@@ -1,5 +1,5 @@
 # username-password-validator
-A simple Python project that validates username and password using string methods and conditional statements.
+
 user = input("Enter Your Name: ")
 
 if " " not in user and len(user) >= 5:
